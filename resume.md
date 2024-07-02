@@ -2,7 +2,7 @@
 
 **Phone:** (240)-529-7089\
 **LinkedIn:** [linkedin.com/in/sujinphilip](http://www.linkedin.com/in/sujinphilip)\
-**Webpage:** [https://philip-sujin.github.io/webpage/](https://philip-sujin.github.io/webpage/)\
+**Webpage:** [https://philip-sujin.github.io/webpage](https://philip-sujin.github.io/webpage)\
 **Email:** philip.sujin@gmail.com
 
 ## PROFILE
