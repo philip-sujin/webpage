@@ -25,7 +25,7 @@
 
 Member of the Scientific Computing Team. Working on some of the most popular and cutting-edge open source visualization software: VTK, VTK-m, and ParaView.
 
-- Worked on VTK-m as one of the primary developers under the DOE Exascale Computing Project:
+- Worked on [VTK-m](https://gitlab.kitware.com/vtk/vtk-m) as one of the primary developers under the DOE Exascale Computing Project:
   - Implemented VTK-m filters like Clip, ExternalFaces, etc
   - Implemented VTK file readers in VTK-m
   - Implemented a mechanism to simulate virtual functions on Cuda, which was used to implement abstract array types
