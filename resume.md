@@ -2,8 +2,8 @@
 
 **Phone:** (240)-529-7089\
 **LinkedIn:** [linkedin.com/in/sujinphilip](http://www.linkedin.com/in/sujinphilip)\
-**Webpage:** [philip-sujin.github.io/sujin.webpage](https://philip-sujin.github.io/sujin.webpage/)\
-**Email:** philip.sujin@gmail.com\
+**Webpage:** [https://philip-sujin.github.io/webpage/](https://philip-sujin.github.io/webpage/)\
+**Email:** philip.sujin@gmail.com
 
 ## PROFILE
 - MS. Computer Science with specialization in Graphics and Visualization
