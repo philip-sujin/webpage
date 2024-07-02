@@ -1,4 +1,4 @@
-# MS Computing: Grahics and Visualization Coursework
+# MS Computing: Graphics and Visualization Coursework
 
 ## Fall 2009
  * [Advanced Computer Graphics I (CS6610)](#cs6610---advanced-computer-graphics-i)

@@ -1,9 +1,9 @@
 # SUJIN PHILIP
 
-**Phone:** (240)-529-7089
-**LinkedIn:** [linkedin.com/in/sujinphilip](http://www.linkedin.com/in/sujinphilip)
-**Webpage:** [https://philip-sujin.github.io/sujin.webpage/]
-**Email:** philip.sujin@gmail.com
+**Phone:** (240)-529-7089\
+**LinkedIn:** [linkedin.com/in/sujinphilip](http://www.linkedin.com/in/sujinphilip)\
+**Webpage:** [philip-sujin.github.io/sujin.webpage](https://philip-sujin.github.io/sujin.webpage/)\
+**Email:** philip.sujin@gmail.com\
 
 ## PROFILE
 - MS. Computer Science with specialization in Graphics and Visualization
@@ -16,13 +16,13 @@
 - BE. Computer, University of Pune, First Class, 2006
 
 ## TECHNICAL SKILLS
-**Proficient:** C++, C, Python, Cuda, MPI, Multithreading, CMake
+**Proficient:** C++, C, Python, Cuda, MPI, Multithreading, CMake\
 **Competent:** OpenGL, TBB, Thrust, Shell Scripting
 
 ## WORK EXPERIENCE
 
 ### Kitware Inc.
-**Staff R&D Engineer**
+**Staff R&D Engineer**\
 *Nov 2014 – Present*
 
 Member of the Scientific Computing Team. Working on some of the most popular and cutting-edge open source visualization software: VTK, VTK-m, and ParaView.
@@ -48,7 +48,7 @@ Member of the Scientific Computing Team. Working on some of the most popular and
 - Made contributions to CMake and commercial projects
 
 ### Persistent Systems Limited
-**Software Developer**
+**Software Developer**\
 *Sep 2006 – Jul 2009*
 
 Member of the project group that handled PSL's client, Netezza Corporation.
@@ -61,7 +61,7 @@ Member of the project group that handled PSL's client, Netezza Corporation.
 ## RESEARCH ASSISTANTSHIP AND INTERNSHIPS
 
 ### Scientific Computing and Imaging Institute
-**Research Assistant**
+**Research Assistant**\
 *Jan 2010 – Aug 2014*
 
 Worked on heterogeneous parallel computing for scientific computing and visualization applications.
@@ -70,19 +70,19 @@ Worked on heterogeneous parallel computing for scientific computing and visualiz
 - Developed a scalable, parallel, out-of-core technique for computing seams for gigapixel sized panoramas using multithreading and MPI
 
 ### Lawrence Livermore National Laboratory
-**Graduate Intern**
+**Graduate Intern**\
 *Summer 2012*
 
 Collaborated on the project to develop a scalable, parallel, out-of-core technique to compute seams for gigapixel sized panoramas
 
 ### Los Alamos National Laboratory
-**Graduate Intern**
+**Graduate Intern**\
 *Summer 2011*
 
 Developed a parallel ray casting based volume renderer using multithreading, GPUs and MPI.
 
 ### Lawrence Livermore National Laboratory
-**Graduate Intern**
+**Graduate Intern**\
 *Summer 2010*
 
 Collaborated on the project to develop a scalable, parallel, out-of-core solver for gradient domain processing of massive images
