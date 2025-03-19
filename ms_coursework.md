@@ -56,7 +56,7 @@
 ### Project - Parallax Occlusion Mapping with Approximate Soft Shadows
 
 ![Project Screenshot 1](images/6610-pr4-1.png "Parallax Mapping")
-![Project Screenshot 2](images/6610-pr4-1.png "Parallax Mapping")
+![Project Screenshot 2](images/6610-pr4-2.png "Parallax Mapping")
 
 ---
 ## CS6630 - Scientific Visualization
